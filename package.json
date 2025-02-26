@@ -2,7 +2,6 @@
 	"name": "connormcdermott",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "connormcdermott.me/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "npm run format:write && react-scripts build",
