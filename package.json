@@ -13,7 +13,7 @@
 		"format:write": "prettier . --write"
 	},
 	"dependencies": {
-		"@wildpeaks/three-webpack-plugin": "^2.0.0",
+		"@wildpeaks/three-webpack-plugin": "^1.0.0",
 		"matter-js": "^0.19.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
@@ -21,9 +21,7 @@
 		"react-markdown": "^8.0.6",
 		"react-p5": "^1.3.35",
 		"react-router-dom": "^6.16.0",
-		"react-scripts": "^5.0.1",
-		"three": "^0.157.0",
-		"three-addons": "^1.2.0"
+		"three": "^0.173.0"
 	},
 	"devDependencies": {
 		"@babel/plugin-proposal-private-property-in-object": "^7.21.11",
@@ -36,6 +34,7 @@
 		"@types/three": "^0.157.0",
 		"gh-pages": "^6.0.0",
 		"prettier": "^3.0.3",
+		"react-scripts": "^5.0.1",
 		"ts-jest": "^29.0.5",
 		"ts-node": "^10.9.1",
 		"typescript": "^4.9.5",
